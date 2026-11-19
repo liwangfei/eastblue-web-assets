@@ -1,12 +1,14 @@
 {
   "version": "0.5.0-dev",
-  "source_commit": "809d56ea06dcd5c06842fe7e9f9a51e162cfdbbc",
+  "source_commit": "94a08cfd06105ddd0e9ffbd8376776fcddf3d1f6",
   "format": "godot-2d-web",
   "map_rendering": "layered-painted-2d",
   "character_rendering": "sprites-2d",
   "first_chapter_board": "painted-isometric-2d",
-  "default_entry": "foosha",
-  "web_entry_arg": "--eastblue-stage-one",
+  "default_entry": "stage-trials",
+  "web_entry_arg": "--stage-trials",
+  "trial_stage_count": 89,
+  "trial_practice": true,
   "texture_quality": 0.56,
   "map_quality": 0.72
 }
