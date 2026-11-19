@@ -1,0 +1,12 @@
+{
+  "version": "0.5.0-dev",
+  "source_commit": "809d56ea06dcd5c06842fe7e9f9a51e162cfdbbc",
+  "format": "godot-2d-web",
+  "map_rendering": "layered-painted-2d",
+  "character_rendering": "sprites-2d",
+  "first_chapter_board": "painted-isometric-2d",
+  "default_entry": "foosha",
+  "web_entry_arg": "--eastblue-stage-one",
+  "texture_quality": 0.56,
+  "map_quality": 0.72
+}
